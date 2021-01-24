@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hoangxuandien/static/css/main.62c5ff9a.chunk.css",
+    "main.js": "/hoangxuandien/static/js/main.d9261163.chunk.js",
+    "main.js.map": "/hoangxuandien/static/js/main.d9261163.chunk.js.map",
+    "runtime-main.js": "/hoangxuandien/static/js/runtime-main.aa57c465.js",
+    "runtime-main.js.map": "/hoangxuandien/static/js/runtime-main.aa57c465.js.map",
+    "static/js/2.d836236d.chunk.js": "/hoangxuandien/static/js/2.d836236d.chunk.js",
+    "static/js/2.d836236d.chunk.js.map": "/hoangxuandien/static/js/2.d836236d.chunk.js.map",
+    "static/js/3.00677456.chunk.js": "/hoangxuandien/static/js/3.00677456.chunk.js",
+    "static/js/3.00677456.chunk.js.map": "/hoangxuandien/static/js/3.00677456.chunk.js.map",
+    "index.html": "/hoangxuandien/index.html",
+    "static/css/main.62c5ff9a.chunk.css.map": "/hoangxuandien/static/css/main.62c5ff9a.chunk.css.map",
+    "static/js/2.d836236d.chunk.js.LICENSE.txt": "/hoangxuandien/static/js/2.d836236d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hoangxuandien/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa57c465.js",
+    "static/js/2.d836236d.chunk.js",
+    "static/css/main.62c5ff9a.chunk.css",
+    "static/js/main.d9261163.chunk.js"
+  ]
+}
